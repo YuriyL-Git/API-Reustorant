@@ -1,0 +1,9 @@
+C:\GitRepository\ReustorantApp(AspNet)\DataLibrary\bin\Release\netcoreapp3.1\DataLibrary.deps.json
+C:\GitRepository\ReustorantApp(AspNet)\DataLibrary\bin\Release\netcoreapp3.1\DataLibrary.dll
+C:\GitRepository\ReustorantApp(AspNet)\DataLibrary\bin\Release\netcoreapp3.1\DataLibrary.pdb
+C:\GitRepository\ReustorantApp(AspNet)\DataLibrary\obj\Release\netcoreapp3.1\DataLibrary.csprojAssemblyReference.cache
+C:\GitRepository\ReustorantApp(AspNet)\DataLibrary\obj\Release\netcoreapp3.1\DataLibrary.AssemblyInfoInputs.cache
+C:\GitRepository\ReustorantApp(AspNet)\DataLibrary\obj\Release\netcoreapp3.1\DataLibrary.AssemblyInfo.cs
+C:\GitRepository\ReustorantApp(AspNet)\DataLibrary\obj\Release\netcoreapp3.1\DataLibrary.csproj.CoreCompileInputs.cache
+C:\GitRepository\ReustorantApp(AspNet)\DataLibrary\obj\Release\netcoreapp3.1\DataLibrary.dll
+C:\GitRepository\ReustorantApp(AspNet)\DataLibrary\obj\Release\netcoreapp3.1\DataLibrary.pdb

@@ -1,0 +1,36 @@
+C:\GitRepository\ReustorantApp(AspNet)\DataLibrary\obj\Debug\netcoreapp3.1\DataLibrary.csprojAssemblyReference.cache
+C:\GitRepository\ReustorantApp(AspNet)\DataLibrary\obj\Debug\netcoreapp3.1\DataLibrary.AssemblyInfoInputs.cache
+C:\GitRepository\ReustorantApp(AspNet)\DataLibrary\obj\Debug\netcoreapp3.1\DataLibrary.AssemblyInfo.cs
+C:\GitRepository\ReustorantApp(AspNet)\DataLibrary\obj\Debug\netcoreapp3.1\DataLibrary.csproj.CoreCompileInputs.cache
+C:\GitRepository\ReustorantApp(AspNet)\DataLibrary\bin\Debug\netcoreapp3.1\DataLibrary.deps.json
+C:\GitRepository\ReustorantApp(AspNet)\DataLibrary\bin\Debug\netcoreapp3.1\DataLibrary.dll
+C:\GitRepository\ReustorantApp(AspNet)\DataLibrary\bin\Debug\netcoreapp3.1\DataLibrary.pdb
+C:\GitRepository\ReustorantApp(AspNet)\DataLibrary\obj\Debug\netcoreapp3.1\DataLibrary.dll
+C:\GitRepository\ReustorantApp(AspNet)\DataLibrary\obj\Debug\netcoreapp3.1\DataLibrary.pdb
+C:\GitRepository\RazorReustorantApp\DataLibrary\bin\Debug\netcoreapp3.1\DataLibrary.deps.json
+C:\GitRepository\RazorReustorantApp\DataLibrary\bin\Debug\netcoreapp3.1\DataLibrary.dll
+C:\GitRepository\RazorReustorantApp\DataLibrary\bin\Debug\netcoreapp3.1\DataLibrary.pdb
+C:\GitRepository\RazorReustorantApp\DataLibrary\obj\Debug\netcoreapp3.1\DataLibrary.csprojAssemblyReference.cache
+C:\GitRepository\RazorReustorantApp\DataLibrary\obj\Debug\netcoreapp3.1\DataLibrary.AssemblyInfoInputs.cache
+C:\GitRepository\RazorReustorantApp\DataLibrary\obj\Debug\netcoreapp3.1\DataLibrary.AssemblyInfo.cs
+C:\GitRepository\RazorReustorantApp\DataLibrary\obj\Debug\netcoreapp3.1\DataLibrary.csproj.CoreCompileInputs.cache
+C:\GitRepository\RazorReustorantApp\DataLibrary\obj\Debug\netcoreapp3.1\DataLibrary.dll
+C:\GitRepository\RazorReustorantApp\DataLibrary\obj\Debug\netcoreapp3.1\DataLibrary.pdb
+C:\GitRepository\MVCReustorant\DataLibrary\bin\Debug\netcoreapp3.1\DataLibrary.deps.json
+C:\GitRepository\MVCReustorant\DataLibrary\bin\Debug\netcoreapp3.1\DataLibrary.dll
+C:\GitRepository\MVCReustorant\DataLibrary\bin\Debug\netcoreapp3.1\DataLibrary.pdb
+C:\GitRepository\MVCReustorant\DataLibrary\obj\Debug\netcoreapp3.1\DataLibrary.csprojAssemblyReference.cache
+C:\GitRepository\MVCReustorant\DataLibrary\obj\Debug\netcoreapp3.1\DataLibrary.AssemblyInfoInputs.cache
+C:\GitRepository\MVCReustorant\DataLibrary\obj\Debug\netcoreapp3.1\DataLibrary.AssemblyInfo.cs
+C:\GitRepository\MVCReustorant\DataLibrary\obj\Debug\netcoreapp3.1\DataLibrary.csproj.CoreCompileInputs.cache
+C:\GitRepository\MVCReustorant\DataLibrary\obj\Debug\netcoreapp3.1\DataLibrary.dll
+C:\GitRepository\MVCReustorant\DataLibrary\obj\Debug\netcoreapp3.1\DataLibrary.pdb
+C:\GitRepository\API Reustorant\DataLibrary\bin\Debug\netcoreapp3.1\DataLibrary.deps.json
+C:\GitRepository\API Reustorant\DataLibrary\bin\Debug\netcoreapp3.1\DataLibrary.dll
+C:\GitRepository\API Reustorant\DataLibrary\bin\Debug\netcoreapp3.1\DataLibrary.pdb
+C:\GitRepository\API Reustorant\DataLibrary\obj\Debug\netcoreapp3.1\DataLibrary.csprojAssemblyReference.cache
+C:\GitRepository\API Reustorant\DataLibrary\obj\Debug\netcoreapp3.1\DataLibrary.AssemblyInfoInputs.cache
+C:\GitRepository\API Reustorant\DataLibrary\obj\Debug\netcoreapp3.1\DataLibrary.AssemblyInfo.cs
+C:\GitRepository\API Reustorant\DataLibrary\obj\Debug\netcoreapp3.1\DataLibrary.csproj.CoreCompileInputs.cache
+C:\GitRepository\API Reustorant\DataLibrary\obj\Debug\netcoreapp3.1\DataLibrary.dll
+C:\GitRepository\API Reustorant\DataLibrary\obj\Debug\netcoreapp3.1\DataLibrary.pdb
