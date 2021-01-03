@@ -34,9 +34,12 @@ namespace API_ReustorantApp
             {
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "API_ReustorantApp", Version = "v1" });
             });
+
+            string Connnectionstring = Configuration.GetConnectionString("Default");
+
             services.AddSingleton(new ConnectionStringData
             {
-                SqlConnectionName = "Dafault"
+                SqlConnectionName = Connnectionstring
             });
             services.AddSingleton<IDataAccess, SqlDB>();
             services.AddSingleton<IFoodData, FoodData>();

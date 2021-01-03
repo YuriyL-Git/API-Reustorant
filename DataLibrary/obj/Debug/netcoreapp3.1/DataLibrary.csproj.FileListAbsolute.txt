@@ -28,9 +28,9 @@ C:\GitRepository\MVCReustorant\DataLibrary\obj\Debug\netcoreapp3.1\DataLibrary.p
 C:\GitRepository\API Reustorant\DataLibrary\bin\Debug\netcoreapp3.1\DataLibrary.deps.json
 C:\GitRepository\API Reustorant\DataLibrary\bin\Debug\netcoreapp3.1\DataLibrary.dll
 C:\GitRepository\API Reustorant\DataLibrary\bin\Debug\netcoreapp3.1\DataLibrary.pdb
-C:\GitRepository\API Reustorant\DataLibrary\obj\Debug\netcoreapp3.1\DataLibrary.csprojAssemblyReference.cache
 C:\GitRepository\API Reustorant\DataLibrary\obj\Debug\netcoreapp3.1\DataLibrary.AssemblyInfoInputs.cache
 C:\GitRepository\API Reustorant\DataLibrary\obj\Debug\netcoreapp3.1\DataLibrary.AssemblyInfo.cs
 C:\GitRepository\API Reustorant\DataLibrary\obj\Debug\netcoreapp3.1\DataLibrary.csproj.CoreCompileInputs.cache
 C:\GitRepository\API Reustorant\DataLibrary\obj\Debug\netcoreapp3.1\DataLibrary.dll
 C:\GitRepository\API Reustorant\DataLibrary\obj\Debug\netcoreapp3.1\DataLibrary.pdb
+C:\GitRepository\API Reustorant\DataLibrary\obj\Debug\netcoreapp3.1\DataLibrary.csprojAssemblyReference.cache
