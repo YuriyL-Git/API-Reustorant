@@ -11,6 +11,8 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using DataLibrary.Data;
+using DataLibrary.Db;
 
 namespace API_ReustorantApp
 {
@@ -32,6 +34,13 @@ namespace API_ReustorantApp
             {
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "API_ReustorantApp", Version = "v1" });
             });
+            services.AddSingleton(new ConnectionStringData
+            {
+                SqlConnectionName = "Dafault"
+            });
+            services.AddSingleton<IDataAccess, SqlDB>();
+            services.AddSingleton<IFoodData, FoodData>();
+            services.AddSingleton<IOrderData, OrderData>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
